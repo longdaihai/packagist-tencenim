@@ -2,7 +2,7 @@
 // +------------------------------------------------------------
 // | Author: HanSheng
 // +------------------------------------------------------------
-namespace longdaihai\tencenim\core;
+namespace longdaihai\tencentim\core;
 
 class IM_Core_TLSSigAPIv2
 {

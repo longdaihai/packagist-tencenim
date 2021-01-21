@@ -3,7 +3,7 @@
  *
  * Author HanSheng
  */
-namespace longdaihai\tencenim\core;
+namespace longdaihai\tencentim\core;
 
 class IM_Code_Code
 {

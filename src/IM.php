@@ -2,7 +2,7 @@
 /**
  * 腾讯云IM扩展类
  */
-namespace longdaihai\tencenim;
+namespace longdaihai\tencentim;
 
 class IM {
 

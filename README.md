@@ -3,7 +3,7 @@ php plugin for tencen cloud
 
 ## 安装
 ```
-composer require longdaihai/tencenim:dev-master
+composer require longdaihai/tencentim:dev-master
 ```
 
 ## 参考

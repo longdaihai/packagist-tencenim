@@ -1,6 +1,6 @@
 {
     "name": "longdaihai/tencentim",
-    "description": "tencenim cloud",
+    "description": "tencentim cloud",
     "type": "library",
     "license": "MIT",
     "version": "1.0.0",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "longdaihai\\tencenim\\": "src"
+            "longdaihai\\tencentim\\": "src"
         }
     }
 }
