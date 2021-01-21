@@ -1,0 +1,24 @@
+{
+    "name": "longdaihai/tencenim",
+    "description": "tencenim cloud",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "keywords": ["longdaihai","php","tencenim","腾讯云","腾讯云IM","即时通讯"],
+    "authors": [
+        {
+            "name": "HanSheng",
+            "email": "164897033@qq.com",
+            "homepage": "https://gitee.com/haiyunyi_cn"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "longdaihai\\tencenim\\": "src"
+        }
+    }
+}
